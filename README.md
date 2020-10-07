@@ -19,4 +19,4 @@ For this program, one dog year is worth `x` number of people years.  The scale v
 
 ## 
 Click the button to edit in repl.it
-[![Run on Repl.it](https://repl.it/badge/github/jillianmaher/myFirstProject)](https://repl.it/github/jillianmaher/myFirstProject)
+[![Run on Repl.it](https://repl.it/badge/github/jillianmaher/DogPracticeLab)](https://repl.it/github/jillianmaher/DogPracticeLab)
