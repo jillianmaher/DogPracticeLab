@@ -5,7 +5,7 @@ This sample lab will work through the following:
 - Call return methods
 - Implement methods in a class
 
-
+Testing This
 ## About the Dog Class:
 
 A dog object can be constructed with an `age` and a `name`. If no age is provided, the `age` should start as 1. 

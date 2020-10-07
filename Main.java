@@ -11,7 +11,7 @@ public class Main
 		d.increaseAgeByOne();     //age should be 3 after this call
 		System.out.println( d.getDogYears( 11 ) );  //will output 33
  		System.out.println( d.getName() );	  //will output rover
-// 		d.increaseAgeByOne();
+ 		d.increaseAgeByOne();
 // 		d.increaseAgeByOne();
 // 		d.increaseAgeByOne();
 // 		d.increaseAgeByOne();    //age should be 7 after this call
