@@ -22,7 +22,7 @@ public class Dog
   	 //fill in this method
   }
   
-  public int getPeopleAge( int val )
+  public int getDogYears( int scale )
   {
   	 //fill in this method
   	 return 0;
