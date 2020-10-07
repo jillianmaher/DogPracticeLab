@@ -12,10 +12,10 @@ public class Dog
     name = n;
   }
   
-	public Dog( String n, int a )  
-	{
- 	 //fill in this constructor
-	}
+  public Dog( String n, int a )  
+  {
+	 //fill in this constructor
+  }
   
   public void increaseAgeByOne()
   {
@@ -36,7 +36,7 @@ public class Dog
     return name;
   }
 	
-  public String toString()    {
-    return "Dog - " + name + " " + age;
-  }
+//   public String toString()    {
+//     return "Dog - " + name + " " + age;
+//   }
 }
