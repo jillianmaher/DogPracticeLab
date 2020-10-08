@@ -17,6 +17,6 @@ For this program, one dog year is worth `x` number of people years.  The scale v
 
 
 
-## 
-Click the button to edit in repl.it
-[![Run on Repl.it](https://repl.it/badge/github/jillianmaher/DogPracticeLab)](https://repl.it/github/jillianmaher/DogPracticeLab)
+## Pull these files into Repl.it
+Log in to Repl.it. On the homepage, find the GitHub section that reads **run your repos** and find this repo. 
+
